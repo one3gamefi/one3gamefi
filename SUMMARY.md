@@ -10,6 +10,7 @@
 * [🧊 經濟體系](jing-ji-ti-xi/README.md)
   * [🥳 經濟模型](jing-ji-ti-xi/jing-ji-mo-xing.md)
   * [💰 13C](jing-ji-ti-xi/13c.md)
+  * [✨ NFT通证令牌](jing-ji-ti-xi/nft-tong-zheng-ling-pai.md)
 * [🛹 遊戲玩法](you-xi-wan-fa/README.md)
   * [🐏 羊了個羊](you-xi-wan-fa/yang-le-ge-yang.md)
   * [🎇 更多....](you-xi-wan-fa/geng-duo-.....md)
