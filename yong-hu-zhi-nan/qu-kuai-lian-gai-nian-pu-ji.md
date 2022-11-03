@@ -49,3 +49,7 @@ The advantage of GameFi is that it integrates financial attributes into blockcha
 
 Using NFT's own features in GameFi can enhance the interconnection between games and solve the problems of rapid game life decay and loss of game players in the traditional game industry.
 
+For example, in a traditional game, a player spends 5,000 yuan to buy an item. As the life of the game comes to an end, the item will become worthless. Once the game is stopped, the player will even lose the ownership of the item. It is not difficult to find that whether the interests of traditional game players can be guaranteed basically depends on the decisions and attitudes of game developers and operators.&#x20;
+
+In GameFi, the NFT (a game item) purchased by the player can be used in all games at the same time: for example, as a skin in a MOBA game, as a mining machine in a farm game; when this game item has use value in hundreds of games , and can be used at the same time, its value preservation ability will be greatly improved.
+

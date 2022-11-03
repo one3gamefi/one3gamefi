@@ -1,7 +1,7 @@
 ---
-description: One 3 產品經濟模型如下：
+description: 'The One 3 product economic model is as follows:'
 ---
 
-# 🥳 經濟模型
+# 🥳 Economic model
 
 <figure><img src="../.gitbook/assets/经济模型.png" alt=""><figcaption></figcaption></figure>
