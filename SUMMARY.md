@@ -1,7 +1,6 @@
 # Table of contents
 
-* [🎮 繁體中文](README.md)
-* [🐻 One3 Game Fi](one3-game-fi.md)
+* [🐻 One3 Game Fi](README.md)
 * [🎰 開始遊戲](kai-shi-you-xi.md)
 * [🏹 用戶指南](yong-hu-zhi-nan/README.md)
   * [🚀 區塊鏈概念普及](yong-hu-zhi-nan/qu-kuai-lian-gai-nian-pu-ji.md)
