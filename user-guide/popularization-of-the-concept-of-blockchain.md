@@ -1,22 +1,19 @@
-# 🚀 區塊鏈概念普及
+# 🚀 Popularization of the concept of blockchain
 
-**1.什麼是DEFi？**
+****
 
-DeFi，也稱為去中心化金融，是建立在區塊鏈之上的金融應用程序
+![“已经过社区验证”图标](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAAAngNWGAAAA/0lEQVR4AYXNMSiEcRyA4cfmGHQbCZIipkuxnJgMStlMNmeyD2dwmc8+sZgxYJd9ErIZFHUyYYD7fkr6l4/rnvmtl7+KitrqV/fq2Y5eLY3Z9S48eRLe7BmVZ9qhTLhQ0algzZWQOVKSsCF8OjAnwbxDTWFDUhPK/jMr1H6HE/IqRky2DyvCefuwItwZzodVoYRiLqMkVCXrwpJ9twZ+sgfDYEFYl8wIWxZ9uFf7zkallxlJh4YrLGsKjZRx7VGHhLqwgFUN45DGdb8MeXGpgB4ABZdeDcpZEY51A+hyLKz4S1W4MQWm3AibWtgWmk6dyISa1pSdyWTOlLXVp0+eL9D/ZPfBTNanAAAAAElFTkSuQmCC)
 
-一分鐘快速理解：
+**1.What is DEFi?**
 
-在傳統金融行業中，有許多金融機構，比如銀行，銀行通過借貸等金融行為以錢生錢，賺取收益，並返還給用戶利息
+\
+DeFi, also known as Decentralized Finance, is a financial application built on top of the blockchain&#x20;
 
-在DeFi（去中心化金融）中，金融機構和其行為由區塊鏈上的智能合約替代，優勢是：1、減少了銀行機構的運營成本，更多的收益會返還到用戶身上；2、合約透明，所有操作可查，減少了中心化的風險
+n.
 
-**2.什麼是NFT？**
+**2.What is NFT?**
 
-NFT（Non-Fungible Token），即非同質化代幣，具有不可分割、不可替代、獨一無二等特點
-
-NFT由於其非同質化、不可拆分的特性，使得它可以和現實世界中的一些商品綁定，如遊戲道具、數字藝術品、門票等
-
-NFT憑借其天然的收藏屬性和便於交易，應用在遊戲中，可以使虛擬道具的壽命更長久，升值空間更高，可玩性更強，流通性更廣
+NFT (Non-Fungible Token), which is a non-fungible token, has the characteristics of indivisible, irreplaceable and unique. Due to its non-homogeneous and inseparable characteristics, NFT can be bound to some commodities in the real world, such as game props, digital artwork, tickets, etc. With its natural collection properties and ease of trading, NFT can be used in games to make virtual props have a longer lifespan, higher appreciation space, stronger playability, and wider circulation.
 
 **快速理解：**
 
