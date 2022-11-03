@@ -1,5 +1,6 @@
 ---
 description: Welecome to One3 GameFi
+cover: .gitbook/assets/mmexport1667482722150.png
 coverY: 0
 ---
 
