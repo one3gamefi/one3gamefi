@@ -1,11 +1,11 @@
 # Table of contents
 
 * [🐻 One3 Game Fi](README.md)
-* [🎰 Start](start.md)
-* [🏹 User Guide](user-guide/README.md)
-  * [🚀 Popularization of the concept of blockchain](user-guide/popularization-of-the-concept-of-blockchain.md)
-  * [🙏 One3 GameFi的願景](user-guide/one3-gamefi-de-yuan-jing.md)
-  * [👉 如何玩賺One3 （P2E）？](user-guide/ru-he-wan-zhuan-one3-p2e.md)
+* [🎰 Start](kai-shi-you-xi.md)
+* [🏹 User Guide](yong-hu-zhi-nan/README.md)
+  * [🚀 Popularization of the concept of blockchain](yong-hu-zhi-nan/qu-kuai-lian-gai-nian-pu-ji.md)
+  * [🙏 One3 GameFi的願景](yong-hu-zhi-nan/one3-gamefi-de-yuan-jing.md)
+  * [👉 如何玩賺One3 （P2E）？](yong-hu-zhi-nan/ru-he-wan-zhuan-one3-p2e.md)
 * [🧊 經濟體系](jing-ji-ti-xi/README.md)
   * [🥳 經濟模型](jing-ji-ti-xi/jing-ji-mo-xing.md)
   * [💰 13C](jing-ji-ti-xi/13c.md)
