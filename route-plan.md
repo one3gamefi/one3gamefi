@@ -1,6 +1,6 @@
 # 🎯 Route plan
 
-2022 Q3&#x20;
+2022 Q4
 
 Publish white paper&#x20;
 
@@ -16,7 +16,7 @@ Released the public beta version of the game "A Sheep"
 
 &#x20;
 
-**2022 Q4**
+**2023Q1**
 
 Release of a limited-time event game mode
 
@@ -26,7 +26,7 @@ $13 listed on CoinMarketCap
 
 Released the second mini game "Poseidon Fishing"
 
-**2023Q1**
+**2023Q2**
 
 Online PVP game battle mode
 
