@@ -1,9 +1,7 @@
-# 🌏 官方社群/社區
+# 🌏 Official community
 
-Telegram：
+Twitter：https://twitter.com/GamefiOne3&#x20;
 
-Twitter：
+TG英文群：https://t.me/One3GameFi\_EN
 
-YouTube：
-
-Facebook：
+TG中文群：https://t.me/One3GameFi\_CN&#x20;
