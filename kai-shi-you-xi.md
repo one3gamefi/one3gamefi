@@ -5,7 +5,7 @@
 ![“已经过社区验证”图标](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAAAngNWGAAAA/0lEQVR4AYXNMSiEcRyA4cfmGHQbCZIipkuxnJgMStlMNmeyD2dwmc8+sZgxYJd9ErIZFHUyYYD7fkr6l4/rnvmtl7+KitrqV/fq2Y5eLY3Z9S48eRLe7BmVZ9qhTLhQ0algzZWQOVKSsCF8OjAnwbxDTWFDUhPK/jMr1H6HE/IqRky2DyvCefuwItwZzodVoYRiLqMkVCXrwpJ9twZ+sgfDYEFYl8wIWxZ9uFf7zkallxlJh4YrLGsKjZRx7VGHhLqwgFUN45DGdb8MeXGpgB4ABZdeDcpZEY51A+hyLKz4S1W4MQWm3AibWtgWmk6dyISa1pSdyWTOlLXVp0+eL9D/ZPfBTNanAAAAAElFTkSuQmCC)\
 At present, One3 GameFi adopts a whitelist invitation system, and only users who have obtained the whitelist registration link can register and enter the game.&#x20;
 
-Official invitation link address: After entering the official website through the invitation link, you can choose to create an account with an email address, phone number, or a combination of numbers and characters, or log in directly with your little fox account and Google email.
+Official invitation link address: After entering the official website through the invitation link, you can choose  a combination of numbers and characters, or log in directly with your little fox account and Google email.
 
 
 
