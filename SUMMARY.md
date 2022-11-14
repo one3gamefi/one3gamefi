@@ -11,7 +11,7 @@
   * [💰 13C](jing-ji-ti-xi/13c.md)
   * [✨ NFT pass token](jing-ji-ti-xi/nft-tong-zheng-ling-pai.md)
 * [🛹 Gameplay](you-xi-wan-fa/README.md)
-  * [🐏 Cazy sheep](gameplay/cazy-sheep.md)
+  * [🐏 Cazy Sheep](you-xi-wan-fa/yang-le-ge-yang.md)
   * [🎇 More....](you-xi-wan-fa/geng-duo-.....md)
 * [🧧 Referral reward](tui-jian-jiang-li/README.md)
   * [🏧 Direct push reward](tui-jian-jiang-li/zhi-tui-jiang-li.md)
