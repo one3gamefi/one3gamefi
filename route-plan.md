@@ -12,7 +12,7 @@ One3 token pre-sale&#x20;
 
 Public IDO sale on PancakeSwap
 
-Released the public beta version of the game "A Sheep"
+Released the public beta version of the game "Cazy Sheep"
 
 &#x20;
 
@@ -25,6 +25,8 @@ Open NFT trading market
 $13 listed on CoinMarketCap
 
 Released the second mini game "Poseidon Fishing"
+
+
 
 **2023Q2**
 
