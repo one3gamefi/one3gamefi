@@ -12,7 +12,7 @@ One3 token pre-sale&#x20;
 
 Public IDO sale on PancakeSwap
 
-Released the public beta version of the game "Cazy Sheep"
+Released the public beta version of the game "Crazy Sheep"
 
 &#x20;
 
