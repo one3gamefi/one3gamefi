@@ -21,15 +21,15 @@ Tokenpocket download address: https://www.tokenpocket.pro/zh/download/app&#x20;
 
 (1) After installation, new users can directly click \[I don't have a wallet] to select Binance Smart Chain to create. (Old users can click \[I have a wallet] and use mnemonic words or private keys to import)
 
+<figure><img src=".gitbook/assets/英文1.png" alt=""><figcaption></figcaption></figure>
+
 
 
 (2) Click the "Create" wallet button, then enter the wallet name and password in turn, and click the "Create wallet" button below after the input is complete.&#x20;
 
 Then back up the mnemonic, you can copy the mnemonic into a notebook, copy at least two copies and keep them in different locations. The creation of the Binance Smart Chain wallet is completed after the mnemonic backup is successful.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
-
-<mark style="color:red;"></mark>
+<figure><img src=".gitbook/assets/英文2.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -37,11 +37,11 @@ Then back up the mnemonic, you can copy the mnemonic into a notebook, copy at le
 
 &#x20; After creating a Binance Smart Chain wallet, you can use the wallet account to transfer money, direct transfer, address book transfer and scan code transfer are all available
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/英文3.jpg" alt=""><figcaption></figcaption></figure>
 
 (2) Collection. Copy the address or share it with the Token issuer.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/英文4.jpg" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">Remember, no website will ever need your mnemonic or private key!</mark>
 
