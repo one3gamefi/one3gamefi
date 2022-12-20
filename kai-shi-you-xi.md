@@ -13,11 +13,11 @@ Official invitation link address: After entering the official website through th
 
 After logging in, click the recharge button in the upper right corner, and the recharge interface will pop up.
 
-**TP Wallet Teaching**&#x20;
+**Wallet Teaching (MetaMask）**
 
-ONE3 GameFi is a project based on the BSC chain. Players first need to create a BSC address. Game You can use TP wallet to create addresses.&#x20;
+ONE3 GameFi is a project based on the BSC chain. Players first need to create a BSC address.&#x20;
 
-Tokenpocket download address: https://www.tokenpocket.pro/zh/download/app&#x20;
+MetaMask download address: [https://metamask.io/download/](https://metamask.io/download/)
 
 (1) After installation, new users can directly click \[I don't have a wallet] to select Binance Smart Chain to create. (Old users can click \[I have a wallet] and use mnemonic words or private keys to import)
 
