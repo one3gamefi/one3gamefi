@@ -1,8 +1,8 @@
-# 💰 13C
+# 💰 One3
 
-**What is 13C？**
+**What is** One3**？**
 
-The token of 13 Coin is 13, abbreviation: $13, is a BEP-20 token with a fixed supply, the maximum supply is 100,000,000 pieces, which is 13's governance, utility and special Play -to-Earm reward token.
+The token of 13 Gamefi is One3, abbreviation: [$](https://baike.baidu.hk/item/%24/189873)One3, is a BEP-20 token with a fixed supply, the maximum supply is 100,000,000 pieces, which is 13's governance, utility and special Play -to-Earm reward token.
 
 Total circulation: 100,000,000 pieces
 

@@ -8,7 +8,7 @@
   * [👉 How to play Earn One3 (P2E)?](yong-hu-zhi-nan/ru-he-wan-zhuan-one3-p2e.md)
 * [🧊 Economic system](jing-ji-ti-xi/README.md)
   * [🥳 Economic model](jing-ji-ti-xi/jing-ji-mo-xing.md)
-  * [💰 13C](jing-ji-ti-xi/13c.md)
+  * [💰 One3](economic-system/one3.md)
   * [✨ NFT pass token](jing-ji-ti-xi/nft-tong-zheng-ling-pai.md)
 * [🛹 Gameplay](you-xi-wan-fa/README.md)
   * [🐏 Crazy  Sheep](gameplay/crazy-sheep.md)
