@@ -17,7 +17,7 @@
   * [🏧 Direct push reward](tui-jian-jiang-li/zhi-tui-jiang-li.md)
   * [✊ Seven Star Mode](tui-jian-jiang-li/qi-xing-mo-shi.md)
   * [🤝 Team commission award](tui-jian-jiang-li/tuan-dui-ti-cheng-jiang.md)
-  * [🖕 Withdrawal fee](referral-reward/withdrawal-fee.md)
+  * [👆 Withdrawal fee](referral-reward/withdrawal-fee.md)
 * [🔥 Team](team/README.md)
   * [📍 CEO](team/ceo.md)
   * [⛳ CTO](team/cto.md)
