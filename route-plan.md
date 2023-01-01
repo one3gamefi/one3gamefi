@@ -6,35 +6,29 @@ Publish white paper&#x20;
 
 Publishing website and social media&#x20;
 
-Launch a private pre-sale&#x20;
+Released the public beta version of the game "Crazy Alpaca”
 
-One3 token pre-sale&#x20;
+Internal Invitation Test
 
-Public IDO sale on PancakeSwap
 
-Released the public beta version of the game "Crazy Sheep"
-
-&#x20;
 
 **2023Q1**
 
-Release of a limited-time event game mode
+Open version 1.0 player test
 
-Open NFT trading market
+Open the trading market
 
-$13 listed on CoinMarketCap
-
-Released the second mini game "Poseidon Fishing"
+Release the second mini game
 
 
 
 **2023Q2**
 
-Online PVP game battle mode
+Platform token One3 listed on PancakeSwap
 
 Start the monthly tournament
 
-The third game "Pokemon"
+The third game online
 
 Online more casual games are online, game developer platform
 
