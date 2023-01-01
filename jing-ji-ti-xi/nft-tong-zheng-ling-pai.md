@@ -1,12 +1,12 @@
 # ✨ NFT pass token
 
-One3 gamefi currently has three passes, basic, advanced, and advanced. All three passes can obtain the number of games and platform income membership rights
+One3 gamefi&#x20;
 
-The basic pass can get 10 game times, and the price is 13USDT
+There are currently two token entrances, token A and token B, both of which can obtain game rewards and income&#x20;
 
-The advanced pass can get 20 game times, and the price is 26USDT
+Token A is a one-time entry into the game, the price is 0.1USDT&#x20;
 
-Premium Pass can get 40 games, priced at 39USDT
+Token B is priced at 13USDT and can be entered into the game multiple times, and 13-199U tokens can be randomly issued
 
 ```
 ```
