@@ -14,8 +14,6 @@ Six stars 13%\*_13U\*_3=5.07U&#x20;
 
 Seven Stars 15%\*_13U\*_3=5.85U
 
-Reach three-star level: Bole Award (take 100% of the income from direct push to the lower level)&#x20;
-
 Cultivate 3 seven stars: upgrade ambassador: 3%+ of the whole network performance (800U cash reward)
 
 Cultivate 3 ambassadors: upgrade talents: 2%+ of the whole network performance (2000U cash reward)
